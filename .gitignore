@@ -1,0 +1,8 @@
+.idea*
+**/target/
+dist/
+connectorNetatmo/src/main/resources/application.conf
+connectorHue/src/main/resources/application.conf
+connectorLeapMotion/lib/LeapJava.jar
+
+
